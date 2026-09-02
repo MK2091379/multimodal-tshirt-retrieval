@@ -53,7 +53,7 @@ Open Multimodal_IR_System.ipynb and run the cells sequentially. The pipeline inc
 
 ## 📊 Results & Visualization
 At the end of the pipeline, the system generates a side-by-side comparative plot demonstrating the Top-N results from both the direct CLIP Visual Search and the Text Reranking Pipeline.
-https://github.com/MK2091379/multimodal-tshirt-retrieval/blob/main/output.png
+![Project Output](output.png)
 
 ## 🤝 Acknowledgments
 Dataset provided by danizo on Kaggle.
